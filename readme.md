@@ -7,4 +7,4 @@ Laravel.
 Tailwinds.  
 Tailblocks
 Blade Template.  
-Sqlite ( check .env file )
+Sqlite (check .env file)
